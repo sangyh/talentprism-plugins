@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "talentprism": {
+      "type": "http",
+      "url": "https://talentprism.ai/mcp"
+    }
+  }
+}

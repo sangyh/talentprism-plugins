@@ -1,0 +1,28 @@
+{
+  "name": "talentprism-plugins",
+  "owner": {
+    "name": "TalentPrism",
+    "email": "support@talentprism.ai"
+  },
+  "metadata": {
+    "description": "Claude plugins published by TalentPrism and TradespeopleHQ."
+  },
+  "plugins": [
+    {
+      "name": "tradespeoplehq",
+      "source": "./plugins/tradespeoplehq",
+      "description": "Search the TradespeopleHQ hotlist of screened skilled-trades workers and send an open job for introductions.",
+      "version": "0.1.0",
+      "homepage": "https://www.tradespeoplehq.com/",
+      "category": "productivity"
+    },
+    {
+      "name": "talentprism",
+      "source": "./plugins/talentprism",
+      "description": "Recruiter command center for your TalentPrism workspace: candidates, campaigns, reminders, interviews and activity. OAuth sign-in; read-only by default.",
+      "version": "0.1.1",
+      "homepage": "https://talentprism.ai/",
+      "category": "productivity"
+    }
+  ]
+}

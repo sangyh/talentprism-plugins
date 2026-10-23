@@ -1,0 +1,20 @@
+{
+  "name": "talentprism",
+  "version": "0.1.1",
+  "description": "Recruiter command center for your TalentPrism workspace: inspect team-scoped candidates, campaigns, reminders, interviews, activity, outreach drafts and integrations. Signs in with OAuth; read-only by default.",
+  "author": {
+    "name": "TalentPrism",
+    "email": "support@talentprism.ai",
+    "url": "https://talentprism.ai/"
+  },
+  "homepage": "https://talentprism.ai/",
+  "privacyPolicyUrl": "https://talentprism.ai/privacy/",
+  "keywords": [
+    "recruiting",
+    "candidates",
+    "campaigns",
+    "talent",
+    "staffing"
+  ],
+  "mcpServers": "./.mcp.json"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "tradespeoplehq",
+  "version": "0.1.0",
+  "description": "Find screened skilled-trades workers (welders, shipfitters, pipefitters, electricians) on the TradespeopleHQ hotlist and send your open job for introductions. Anonymous cards only; the plugin never contacts a worker.",
+  "author": {
+    "name": "TradespeopleHQ",
+    "email": "support@talentprism.ai",
+    "url": "https://www.tradespeoplehq.com/"
+  },
+  "homepage": "https://www.tradespeoplehq.com/",
+  "privacyPolicyUrl": "https://www.tradespeoplehq.com/privacy",
+  "keywords": [
+    "hiring",
+    "skilled-trades",
+    "welders",
+    "shipyard",
+    "staffing",
+    "tradespeople"
+  ],
+  "mcpServers": "./.mcp.json"
+}
